@@ -1,4 +1,4 @@
 ---
 title: Katze
-caption: Etwas verpeilt auf Mäusefang.
+caption: Etwas verpeilt auf Mäusefang
 ---
