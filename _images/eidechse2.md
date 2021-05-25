@@ -1,4 +1,4 @@
 ---
 title: Zauneidechse, männlich
-caption: Mit Grünfärbung in der Paarungszeit typischen Grünfärbung
+caption: Mit in der Paarungszeit typischen Grünfärbung
 ---
