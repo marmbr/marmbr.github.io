@@ -1,4 +1,4 @@
 ---
-title: Kohlmeise
-caption: vermtl. männlich
+title: Kohlmeise, männlich
+caption: In Nestnähe mit Futter für die Jungen
 ---
