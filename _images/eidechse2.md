@@ -1,4 +1,4 @@
 ---
 title: Zauneidechse
-caption: männlich mit Grünfärbung
+caption: Männlich mit Grünfärbung
 ---
