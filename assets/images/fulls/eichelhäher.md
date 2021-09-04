@@ -1,4 +1,0 @@
----
-title: Eichelhäher
-caption:
----
